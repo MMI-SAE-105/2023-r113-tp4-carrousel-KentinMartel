@@ -70,3 +70,7 @@ img {
     text-decoration: none;
     color: slategray;
 }
+
+.actif {
+    color: rgb(255, 37, 37);
+}

@@ -65,3 +65,8 @@ img {
     gap: 1rem;
     list-style: none;
 }
+
+.caroussel_lien {
+    text-decoration: none;
+    color: slategray;
+}
